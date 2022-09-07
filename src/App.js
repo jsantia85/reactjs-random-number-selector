@@ -16,10 +16,16 @@ function App() {
           </div>
           <div className='numContainer'>
             <div>
+              <p>Min:</p>
+              <input
 
+              />
             </div>
             <div>
+              <p>Max:</p>
+              <input
               
+              />
             </div>
           </div>
         </div>

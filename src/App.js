@@ -15,7 +15,12 @@ function App() {
             </p>
           </div>
           <div className='numContainer'>
+            <div>
 
+            </div>
+            <div>
+              
+            </div>
           </div>
         </div>
       </div>

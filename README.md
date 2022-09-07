@@ -1,6 +1,6 @@
 # React JS Random Number Selector
 The following React application is a random number selector. It was built as a rep following a sample on CodeSandbox.io, working through it and reverse engineering it. It was originally requested by my partner who wanted a way to help with their decision making.
-# ![Landing Page]()
+# ![Landing Page](public/imgs/ReactRandomNmberGenerator.png)
 ## Getting Started:
 The following is the link to the deployed [app]().
 

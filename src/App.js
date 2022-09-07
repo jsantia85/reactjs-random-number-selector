@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className="hero">
-        <h1>Hello, This is a Random Number Selector.</h1>
+        <h1>Random Number Generator</h1>
         <div className='container'>
           <div className='randomNum'>
             <p>

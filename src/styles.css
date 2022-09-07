@@ -9,7 +9,7 @@
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background: #080808;
+  background: #130C0C;
   flex-direction: column;
 }
 .hero .container {
@@ -18,17 +18,17 @@
   display: flex;
   flex-direction: column;
   padding: 30px;
-  color: #fff;
-  background: #7C0200;
+  color: #FFFFFF;
+  background: #2A2424;
   border-radius: 5px;
 }
 .hero .container .randomNum {
-  background: #49003B;
+  background: #202020;
   padding: 20px;
 }
 .hero .container .randomNum p span {
-  color: #63C328;
-  font-weight: 600;
+  color: #FF3131;
+  font-weight: bolder;
 }
 .hero .numContainer {
   width: 100%;
@@ -45,8 +45,9 @@
   border: none;
   outline: none;
   width: 100%;
-  background: #49003B;
-  color: #63C328;
+  background: #CFCECE;
+  color: #FF3131;
+  font-weight: bolder;
 }
 .hero .container button {
   border: none;

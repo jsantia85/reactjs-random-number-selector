@@ -13,4 +13,4 @@ The following is the link to the deployed [app]().
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Credits
-- (Random Number Generator App React) <a href="https://www.youtube.com/watch?v=jsLZkOiREJg&t=11s" title="Random Number Generator App React">Video by h3webdevtuts</a>
+- (Random Number Generator App React) <a href="https://www.youtube.com/watch?v=jsLZkOiREJg&t=11s" title="Random Number Generator App React">video by h3webdevtuts</a>

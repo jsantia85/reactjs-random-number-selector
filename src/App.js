@@ -27,7 +27,9 @@ function App() {
             <div>
               <p>Max:</p>
               <input
-              
+                type='number'
+                value={maxNum}
+                onChange={(e) => setMaxNum(+e.target.value)}
               />
             </div>
           </div>

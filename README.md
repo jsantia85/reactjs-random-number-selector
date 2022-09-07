@@ -1,5 +1,5 @@
 # React JS Random Number Selector
-The following React application is a random number selector. It was built as a rep following a youtube video by h3webdevtuts, for my partner who wanted a spooky themed number selector to help them make decisions. 
+The following React application is a random number selector. It was built as a rep following a sample on CodeSandbox.io, working through it and reverse engineering it. It was originally requested by my partner who wanted a way to help with their decision making.
 # ![Landing Page]()
 ## Getting Started:
 The following is the link to the deployed [app]().
@@ -13,4 +13,4 @@ The following is the link to the deployed [app]().
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Credits
-- (Random Number Generator App React) <a href="https://www.youtube.com/watch?v=jsLZkOiREJg&t=11s" title="Random Number Generator App React">video by h3webdevtuts</a>
+- (Random Number Generator App React) <a href="https://codesandbox.io/s/fcl5i?file=/src/App.js" title="Random Number Generator App React">original code by Shakhzod Tojiyev</a>

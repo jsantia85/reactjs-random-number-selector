@@ -9,7 +9,11 @@ function App() {
       <div className="hero">
         <h1>Hello, This is a Random Number Selector.</h1>
         <div className='container'>
-
+          <div className='randomNum'>
+            <p>
+              Random Number: <span>{}</span>
+            </p>
+          </div>
         </div>
       </div>
     </>

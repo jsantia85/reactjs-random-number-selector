@@ -4,6 +4,7 @@ import './styles.css';
 function App() {
   const [minNum, setMinNum] = useState(0);
   const [maxNum, setMaxNum] = useState(10);
+  const [randomNum, setRandomNum] = useState(5);
 
   return (
     <>

@@ -5,7 +5,7 @@ import './styles.css';
 function App() {
 
   return (
-    <div className="App">
+    <div className="hero">
       <h1>Hello, This is a Random Number Selector.</h1>
     </div>
   );

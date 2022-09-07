@@ -18,7 +18,9 @@ function App() {
             <div>
               <p>Min:</p>
               <input
-
+                type='number'
+                value={minNum}
+                onChange={(e) => setMinNum(+e.target.value)}
               />
             </div>
             <div>

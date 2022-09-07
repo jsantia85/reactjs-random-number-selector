@@ -5,9 +5,11 @@ import './styles.css';
 function App() {
 
   return (
-    <div className="hero">
-      <h1>Hello, This is a Random Number Selector.</h1>
-    </div>
+    <>
+      <div className="hero">
+        <h1>Hello, This is a Random Number Selector.</h1>
+      </div>
+    </>
   );
 }
 

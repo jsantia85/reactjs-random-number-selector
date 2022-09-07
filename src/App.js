@@ -8,6 +8,9 @@ function App() {
     <>
       <div className="hero">
         <h1>Hello, This is a Random Number Selector.</h1>
+        <div className='container'>
+
+        </div>
       </div>
     </>
   );

@@ -28,6 +28,7 @@ function App() {
               />
             </div>
           </div>
+          <button>Get Random Number</button>
         </div>
       </div>
     </>

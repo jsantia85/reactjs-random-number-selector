@@ -14,6 +14,9 @@ function App() {
               Random Number: <span>{}</span>
             </p>
           </div>
+          <div className='numContainer'>
+
+          </div>
         </div>
       </div>
     </>

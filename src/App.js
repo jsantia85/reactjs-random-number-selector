@@ -6,6 +6,9 @@ function App() {
   const [maxNum, setMaxNum] = useState(10);
   const [randomNum, setRandomNum] = useState(5);
 
+  const handleRandomNum = () => {
+    setRandomNum(Math.floor(Math.random() * (maxNum - minNum + 1) + minNum))
+  }
   return (
     <>
       <div className="hero">
@@ -13,7 +16,7 @@ function App() {
         <div className='container'>
           <div className='randomNum'>
             <p>
-              Random Number: <span>{}</span>
+              Random Number: <span>{randomNum}</span>
             </p>
           </div>
           <div className='numContainer'>
@@ -34,7 +37,7 @@ function App() {
               />
             </div>
           </div>
-          <button>Get Random Number</button>
+          <button onClick={handleRandomNum}>Get Random Number</button>
         </div>
       </div>
     </>

@@ -7,7 +7,13 @@ function App() {
   const [randomNum, setRandomNum] = useState(5);
 
   const handleRandomNum = () => {
-    setRandomNum(Math.floor(Math.random() * (maxNum - minNum + 1) + minNum))
+    setRandomNum(
+        // Math floor rounds to the nearest whole number, so no floats
+        Math.floor(
+            //This is the actual code that generates a random num, uses the values that the user sets
+            Math.random() * (maxNum - minNum + 1) + minNum
+          )
+      )
   }
   return (
     <>

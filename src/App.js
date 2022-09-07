@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDom from 'react-dom/client';
+import React, {useState} from 'react';
 import './styles.css';
 
 function App() {
+  const [minNum, setMinNum] = useState(0);
 
   return (
     <>
